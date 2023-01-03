@@ -4,7 +4,7 @@
 <img  align="right" height="250px" width="400px" alt="GIF" src = https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966>
 
   **Sobre Mi:** </br>
-   Soy un Desarrollador Full Stack, mas orientado al BackEnd. Actualmentente empese a capacitarme en 
+  <h4>Soy un Desarrollador Full Stack, mas orientado al BackEnd.  </h4>
 ---
 
 **☎️Puedes contactarme por...☎️** </br>
