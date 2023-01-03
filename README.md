@@ -11,13 +11,11 @@
 
 **☎️Puedes contactarme...☎️** </br>
 
-<a href="https://github.com/recover1988" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/carballo-matias-fullstack/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-
+</a> </br>
+<h3></h3>
 ---
 
 ### Lenguages que Utilizo 🛠 
