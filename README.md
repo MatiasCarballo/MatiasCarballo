@@ -1,12 +1,10 @@
 ## **Bienvenido 👋, Soy Matias Carballo!**
-
   <br/>
 
 <img  align="right" height="250px" width="400px" alt="GIF" src = https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966>
 
   **Sobre Mi:** </br>
-   Soy un Desarrollador Full Stack Graduado en el Bootcamp de Soy Henry, adquiriendo más de 1200 horas de experiencia académica, realizando proyectos reales, tanto individuales como grupales. 
-
+   Soy un Desarrollador Full Stack, mas orientado al BackEnd. Actualmentente empese a capacitarme en 
 ---
 
 **☎️Puedes contactarme por...☎️** </br>
@@ -20,7 +18,7 @@
 
 ---
 
-### Lenguages que Utilizo 🛠 
+** 🛠 Lenguages que Utilizo 🛠 **
 
 <div align="center" >
   <img src=https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667 style="width:75px; height:75px;  padding: 50px;"  />
