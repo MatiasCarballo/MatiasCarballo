@@ -24,6 +24,6 @@
 
 ### Languages and Tools 🛠 
 <div align="center">
-  <img src=https://www.w3.org/html alt=linkedin style="width:20px;  height:20px" />
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt=linkedin style="width:20px;  height:20px" />
 </div>
 ---
