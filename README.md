@@ -8,7 +8,8 @@
    Soy un Desarrollador Full Stack Graduado en el Bootcamp de Soy Henry, adquiriendo más de 1200 horas de experiencia académica, realizando proyectos reales, tanto individuales como grupales. 
 
 ---
-**☎️Puedes contactarme...☎️
+
+**☎️Puedes contactarme...☎️** </br>
 
 <a href="https://github.com/recover1988" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
