@@ -7,6 +7,7 @@
   <h5>✨Soy un Desarrollador Full Stack, mas orientado al BackEnd.</h5>
   <h5>✨Me encanta aprender nuevas tecnologías e idiomas constantemente.</h5>
   <h5>✨Actualmente estoy pro empezar a capacitarme en C# con .Net.</h5>
+  
 ---
 
 **☎️Puedes contactarme por...☎️** </br>
