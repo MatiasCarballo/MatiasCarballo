@@ -9,7 +9,6 @@
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
     - ⚡ Fun fact: Enjoy family time, anime, movies, pizza and a good beer .</br>
-    - 📝[Resume](https://github.com/Silbordon/SilBordon/blob/main/Silvina%20Bordon.pdf)</br>
 
 
 <a href="https://github.com/recover1988" target="_blank">
@@ -24,7 +23,7 @@
 
 
 ### Languages and Tools 🛠 
-
+<div align="center">
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
@@ -43,5 +42,5 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
-
+</div>
 ---
