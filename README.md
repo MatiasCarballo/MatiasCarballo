@@ -2,11 +2,16 @@
 
   <br/>
 
-<div align="center">
-<img src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" align="center" style="width: 100%" />
-</div>
+---
+<img  align="right" height="250px" width="400px" alt="GIF" src = https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966>
 
-<br/>
+  **Talking about Personal Stuffs:** </br>
+    - 👨‍💻 I’m currently working on web development technologies like JavaScript, React , Redux, Svelte, etc.</br>
+    - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
+    - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
+    - ⚡ Fun fact: Enjoy family time, anime, movies, pizza and a good beer .</br>
+    - 📝[Resume](https://github.com/Silbordon/SilBordon/blob/main/Silvina%20Bordon.pdf)</br>
+
 
 <a href="https://github.com/recover1988" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
