@@ -9,7 +9,7 @@
 
 ---
 
-**☎️Puedes contactarme...☎️** </br>
+**☎️Puedes contactarme por...☎️** </br>
 
 
 <a href="https://www.linkedin.com/in/carballo-matias-fullstack/" target="_blank">
